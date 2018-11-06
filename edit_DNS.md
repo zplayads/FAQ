@@ -30,7 +30,7 @@
 
 1. Open Network and Sharing Center, you have the following two ways to open it
    
-   a. Right click your WIFI 
+   a. Right-click your WIFI 
 
 ![choose wifi](img/win0-cn.jpg)
 
@@ -49,7 +49,7 @@ Choose 'Open Network and Sharing Center'
    
 ![Properties](img/win4-en.png)
 
-4. Double click 'TCP/IPv4', or click 'TCP/IPv4' and 'Proerties'. Click OK button after finish step5
+4. Double click 'TCP/IPv4', or click 'TCP/IPv4' and 'Properties'. Click OK button after finish step5
    
 ![TCP/IPv4](img/win5-en.jpg)
 
