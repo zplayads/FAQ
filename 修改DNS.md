@@ -42,7 +42,7 @@
    b.在控制面板中选择“网络和Internet”
 ![Network and Internet](img/win2-cn.jpg)
 
-1. 双击打开目前链接的WIFI
+2. 双击打开目前链接的WIFI
    
 ![click WIFI](img/win3-cn.jpg)
 
