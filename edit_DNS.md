@@ -41,7 +41,7 @@ Choose 'Open Network and Sharing Center'
    b.Choose 'Network and Internet' on Control Panel
 ![Network and Internet](img/win2-en.png)
 
-1. Double click the WIFI you connect
+2. Double click the WIFI you connect
    
 ![click WIFI](img/win3-en.png)
 
@@ -49,10 +49,10 @@ Choose 'Open Network and Sharing Center'
    
 ![Properties](img/win4-en.png)
 
-4. Double click 'TCP/IPv4', or click 'TCP/IPv4' and 'Proerties'. Click OK button after finish step5.
+4. Double click 'TCP/IPv4', or click 'TCP/IPv4' and 'Proerties'. Click OK button after finish step5
    
 ![TCP/IPv4](img/win5-en.jpg)
 
-5. Choose 'Use the following DNS server address', fill in 'Preferred DNS server' with '8.8.8.8', click OK button.
+5. Choose 'Use the following DNS server address', fill in 'Preferred DNS server' with '8.8.8.8', click OK button
    
 ![Set DNS](img/win6-en.png)
