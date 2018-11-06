@@ -31,10 +31,10 @@
 1. Open Network and Sharing Center, you have the following two ways to open it
    
    a. Right click your WIFI and choose 'Open Network and Sharing Center'
-
-![metwork setting](img/win1-en.jpg)
+![choose wifi](img/win0-cn.jpg)
+![network setting](img/win1-en.jpg)
    
-   b.Choose Network and Internet on Control Panel
+   b.Choose 'Network and Internet' on Control Panel
 ![Network and Internet](img/win2-en.png)
 
 2. Double click the WIFI you connect
