@@ -1,6 +1,7 @@
 <!-- TOC -->
 
 - [通用](#通用)
+    - [遇到DNS解析错误如何处理？](#遇到dns解析错误如何处理)
     - [你们是否支持Report API？](#你们是否支持report-api)
     - [我从哪里可以获取Account ID和API Key？](#我从哪里可以获取account-id和api-key)
 - [广告投放](#广告投放)
@@ -20,6 +21,9 @@
 如果本篇内容无法解答您的问题，您可以通过service@atmosplay.com联系我们或者在[issue页面](https://github.com/zplayads/FAQ/issues)创建issue来描述您遇到的问题，我们会尽快回复。
 
 ## 通用
+### 遇到DNS解析错误如何处理？
+当您需要DNS解析错误的提示时，请参考[该文档](https://github.com/zplayads/FAQ/blob/master/%E4%BF%AE%E6%94%B9DNS.md)；
+
 ### 你们是否支持Report API？
 
 我们支持Report API。

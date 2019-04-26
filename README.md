@@ -1,7 +1,36 @@
 ## 这里列出了在使用可玩广告平台或者在日常业务运营中的常见问题
 
-- [提示DNS解析错误](修改DNS.md)
 
-## here is all FAQ about ZPLAY Ads
+- [通用](#通用)
+    - [提示DNS解析错误](修改DNS.md)
+    - [你们是否支持Report API？](https://github.com/May0210/FAQ/blob/master/FAQ_CN.md#%E4%BD%A0%E4%BB%AC%E6%98%AF%E5%90%A6%E6%94%AF%E6%8C%81report-api)
+    - [我从哪里可以获取Account ID和API Key？](https://github.com/May0210/FAQ/blob/master/FAQ_CN.md#%E6%88%91%E4%BB%8E%E5%93%AA%E9%87%8C%E5%8F%AF%E4%BB%A5%E8%8E%B7%E5%8F%96account-id%E5%92%8Capi-key)
+- [广告投放](#广告投放)
+    - [为什么我的广告没有投放出去？](https://github.com/May0210/FAQ/blob/master/FAQ_CN.md#%E5%B9%BF%E5%91%8A%E6%8A%95%E6%94%BE)
+    - [你们的平台支持哪些三方监测？是否支持自有监测？](https://github.com/May0210/FAQ/blob/master/FAQ_CN.md#%E4%BD%A0%E4%BB%AC%E7%9A%84%E5%B9%B3%E5%8F%B0%E6%94%AF%E6%8C%81%E5%93%AA%E4%BA%9B%E4%B8%89%E6%96%B9%E7%9B%91%E6%B5%8B%E6%98%AF%E5%90%A6%E6%94%AF%E6%8C%81%E8%87%AA%E6%9C%89%E7%9B%91%E6%B5%8B)
+    - [你们的平台支持什么类型的创意？](https://github.com/May0210/FAQ/blob/master/FAQ_CN.md#%E4%BD%A0%E4%BB%AC%E7%9A%84%E5%B9%B3%E5%8F%B0%E6%94%AF%E6%8C%81%E4%BB%80%E4%B9%88%E7%B1%BB%E5%9E%8B%E7%9A%84%E5%88%9B%E6%84%8F)
+    - [你们支持回传流量应用的名称吗？](https://github.com/May0210/FAQ/blob/master/FAQ_CN.md#%E4%BD%A0%E4%BB%AC%E6%94%AF%E6%8C%81%E5%9B%9E%E4%BC%A0%E6%B5%81%E9%87%8F%E5%BA%94%E7%94%A8%E7%9A%84%E5%90%8D%E7%A7%B0%E5%90%97)
+    - [我可以从什么维度进行定向投放？](https://github.com/May0210/FAQ/blob/master/FAQ_CN.md#%E6%88%91%E5%8F%AF%E4%BB%A5%E4%BB%8E%E4%BB%80%E4%B9%88%E7%BB%B4%E5%BA%A6%E8%BF%9B%E8%A1%8C%E5%AE%9A%E5%90%91%E6%8A%95%E6%94%BE)
+- [流量变现](https://github.com/May0210/FAQ/blob/master/FAQ_CN.md#%E6%B5%81%E9%87%8F%E5%8F%98%E7%8E%B0)
+    - [我已经创建好应用了，为什么无法创建广告位？](https://github.com/May0210/FAQ/blob/master/FAQ_CN.md#%E6%88%91%E5%B7%B2%E7%BB%8F%E5%88%9B%E5%BB%BA%E5%A5%BD%E5%BA%94%E7%94%A8%E4%BA%86%E4%B8%BA%E4%BB%80%E4%B9%88%E6%97%A0%E6%B3%95%E5%88%9B%E5%BB%BA%E5%B9%BF%E5%91%8A%E4%BD%8D)
+    - [广告位上投放的广告是否可跳过？](https://github.com/May0210/FAQ/blob/master/FAQ_CN.md#%E5%B9%BF%E5%91%8A%E4%BD%8D%E4%B8%8A%E6%8A%95%E6%94%BE%E7%9A%84%E5%B9%BF%E5%91%8A%E6%98%AF%E5%90%A6%E5%8F%AF%E8%B7%B3%E8%BF%87)
+    - [为什么我看不到任何广告？](https://github.com/May0210/FAQ/blob/master/FAQ_CN.md#%E4%B8%BA%E4%BB%80%E4%B9%88%E6%88%91%E7%9C%8B%E4%B8%8D%E5%88%B0%E4%BB%BB%E4%BD%95%E5%B9%BF%E5%91%8A)
+    - [为什么我无法提现？](https://github.com/May0210/FAQ/blob/master/FAQ_CN.md#%E4%B8%BA%E4%BB%80%E4%B9%88%E6%88%91%E6%97%A0%E6%B3%95%E6%8F%90%E7%8E%B0)
 
-- [encounter an error of DNS_PROBE_FINISHED_NXDOMAIN](edit_DNS.md)
+## Here Is All FAQs About ZPLAY Ads
+
+- [General](https://github.com/May0210/FAQ/blob/master/FAQ_EN.md#general)
+  - [Encounter An Eerror of DNS_PROBE_FINISHED_NXDOMAIN]()
+  - [Do you support Report API?](https://github.com/May0210/FAQ/blob/master/FAQ_EN.md#do-you-support-report-api)
+  - [How do I find my Account ID and API Key?](https://github.com/May0210/FAQ/blob/master/FAQ_EN.md#how-do-i-find-my-account-id-and-api-key)
+- [User Acquisition](https://github.com/May0210/FAQ/blob/master/FAQ_EN.md#user-acquisition)
+  - [Why wasn't my campaign released?](https://github.com/May0210/FAQ/blob/master/FAQ_EN.md#why-wasnt-my-campaign-released)
+  - [What third-party tracking services do you support? Do you have in-house tracking tools?](https://github.com/May0210/FAQ/blob/master/FAQ_EN.md#what-third-party-tracking-services-do-you-support-do-you-have-in-house-tracking-tools)
+  - [What kinds of creatives do you support?](https://github.com/May0210/FAQ/blob/master/FAQ_EN.md#what-kinds-of-creatives-do-you-support)
+  - [Will it is available to send us the app name?](https://github.com/May0210/FAQ/blob/master/FAQ_EN.md#will-it-is-available-to-send-us-the-app-name)
+  - [What targeting options do you support?](https://github.com/May0210/FAQ/blob/master/FAQ_EN.md#what-targeting-options-do-you-support)
+- [Monetization](https://github.com/May0210/FAQ/blob/master/FAQ_EN.md#monetization)
+  - [Why can't I add adunits after adding apps?](https://github.com/May0210/FAQ/blob/master/FAQ_EN.md#why-cant-i-add-adunits-after-adding-apps)
+  - [Can the ad on my adunit be skipped?](https://github.com/May0210/FAQ/blob/master/FAQ_EN.md#can-the-ad-on-my-adunit-be-skipped)
+  - [Why don't I see any ads?](https://github.com/May0210/FAQ/blob/master/FAQ_EN.md#why-dont-i-see-any-ads)
+  - [Why can't I withdraw my earnings?](https://github.com/May0210/FAQ/blob/master/FAQ_EN.md#why-cant-i-withdraw-my-earnings)

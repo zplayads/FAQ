@@ -1,6 +1,7 @@
 <!-- TOC -->
 
 - [General](#general)
+  - [How to deal with an error of DNS_PROBE_FINISHED_NXDOMAIN?](#how-to-deal-with-an-error-of-dnsprobefinishednxdomain)
   - [Do you support Report API?](#do-you-support-report-api)
   - [How do I find my Account ID and API Key?](#how-do-i-find-my-account-id-and-api-key)
 - [User Acquisition](#user-acquisition)
@@ -20,6 +21,9 @@
 If this document could not answer your question, you can contact us at service@atmosplay.com or creating issues in [issue page](https://github.com/zplayads/FAQ/issues) to describe your questions. We will help you solve your problem as soon as possible. 
 
 ## General
+### How to deal with an error of DNS_PROBE_FINISHED_NXDOMAIN?
+When encounter an error of DNS_PROBE_FINISHED_NXDOMAIN, please refer to this [doc](https://github.com/zplayads/FAQ/blob/master/edit_DNS.md);
+
 ### Do you support Report API?
 We support Report API. 
 
