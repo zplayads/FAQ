@@ -1,7 +1,7 @@
 ## 这里列出了在使用可玩广告平台或者在日常业务运营中的常见问题
 
 
-- [通用](#通用)
+- [通用](https://github.com/May0210/FAQ/blob/master/FAQ_CN.md#%E9%80%9A%E7%94%A8)
     - [提示DNS解析错误](修改DNS.md)
     - [你们是否支持Report API？](https://github.com/May0210/FAQ/blob/master/FAQ_CN.md#%E4%BD%A0%E4%BB%AC%E6%98%AF%E5%90%A6%E6%94%AF%E6%8C%81report-api)
     - [我从哪里可以获取Account ID和API Key？](https://github.com/May0210/FAQ/blob/master/FAQ_CN.md#%E6%88%91%E4%BB%8E%E5%93%AA%E9%87%8C%E5%8F%AF%E4%BB%A5%E8%8E%B7%E5%8F%96account-id%E5%92%8Capi-key)
