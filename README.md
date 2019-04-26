@@ -5,8 +5,8 @@
     - [提示DNS解析错误](修改DNS.md)
     - [你们是否支持Report API？](https://github.com/May0210/FAQ/blob/master/FAQ_CN.md#%E4%BD%A0%E4%BB%AC%E6%98%AF%E5%90%A6%E6%94%AF%E6%8C%81report-api)
     - [我从哪里可以获取Account ID和API Key？](https://github.com/May0210/FAQ/blob/master/FAQ_CN.md#%E6%88%91%E4%BB%8E%E5%93%AA%E9%87%8C%E5%8F%AF%E4%BB%A5%E8%8E%B7%E5%8F%96account-id%E5%92%8Capi-key)
-- [广告投放](#广告投放)
-    - [为什么我的广告没有投放出去？](https://github.com/May0210/FAQ/blob/master/FAQ_CN.md#%E5%B9%BF%E5%91%8A%E6%8A%95%E6%94%BE)
+- [广告投放](https://github.com/May0210/FAQ/blob/master/FAQ_CN.md#%E5%B9%BF%E5%91%8A%E6%8A%95%E6%94%BE)
+    - [为什么我的广告没有投放出去？](https://github.com/May0210/FAQ/blob/master/FAQ_CN.md#%E4%B8%BA%E4%BB%80%E4%B9%88%E6%88%91%E7%9A%84%E5%B9%BF%E5%91%8A%E6%B2%A1%E6%9C%89%E6%8A%95%E6%94%BE%E5%87%BA%E5%8E%BB)
     - [你们的平台支持哪些三方监测？是否支持自有监测？](https://github.com/May0210/FAQ/blob/master/FAQ_CN.md#%E4%BD%A0%E4%BB%AC%E7%9A%84%E5%B9%B3%E5%8F%B0%E6%94%AF%E6%8C%81%E5%93%AA%E4%BA%9B%E4%B8%89%E6%96%B9%E7%9B%91%E6%B5%8B%E6%98%AF%E5%90%A6%E6%94%AF%E6%8C%81%E8%87%AA%E6%9C%89%E7%9B%91%E6%B5%8B)
     - [你们的平台支持什么类型的创意？](https://github.com/May0210/FAQ/blob/master/FAQ_CN.md#%E4%BD%A0%E4%BB%AC%E7%9A%84%E5%B9%B3%E5%8F%B0%E6%94%AF%E6%8C%81%E4%BB%80%E4%B9%88%E7%B1%BB%E5%9E%8B%E7%9A%84%E5%88%9B%E6%84%8F)
     - [你们支持回传流量应用的名称吗？](https://github.com/May0210/FAQ/blob/master/FAQ_CN.md#%E4%BD%A0%E4%BB%AC%E6%94%AF%E6%8C%81%E5%9B%9E%E4%BC%A0%E6%B5%81%E9%87%8F%E5%BA%94%E7%94%A8%E7%9A%84%E5%90%8D%E7%A7%B0%E5%90%97)
@@ -20,7 +20,7 @@
 ## Here Is All FAQs About ZPLAY Ads
 
 - [General](https://github.com/May0210/FAQ/blob/master/FAQ_EN.md#general)
-  - [Encounter An Eerror of DNS_PROBE_FINISHED_NXDOMAIN]()
+  - [Encounter An Eerror of DNS_PROBE_FINISHED_NXDOMAIN](https://github.com/zplayads/FAQ/blob/master/edit_DNS.md)
   - [Do you support Report API?](https://github.com/May0210/FAQ/blob/master/FAQ_EN.md#do-you-support-report-api)
   - [How do I find my Account ID and API Key?](https://github.com/May0210/FAQ/blob/master/FAQ_EN.md#how-do-i-find-my-account-id-and-api-key)
 - [User Acquisition](https://github.com/May0210/FAQ/blob/master/FAQ_EN.md#user-acquisition)
