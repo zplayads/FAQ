@@ -22,15 +22,15 @@
 
 ## 通用
 ### 遇到DNS解析错误如何处理？
-当您需要DNS解析错误的提示时，请参考[该文档](https://github.com/zplayads/FAQ/blob/master/%E4%BF%AE%E6%94%B9DNS.md)；
+当您遇到DNS解析错误的提示时，请参考[该文档](https://github.com/zplayads/FAQ/blob/master/%E4%BF%AE%E6%94%B9DNS.md)；
 
 ### 你们是否支持Report API？
 
 我们支持Report API。
     
-若您是广告主，可以参考我们的[广告主Report API 文档](https://github.com/zplayads/report_api/blob/master/%E5%B9%BF%E5%91%8A%E4%B8%BBReport%20API.md)来获取您的投放数据；
+若您是广告主，可以参考我们的[广告主Report API文档](https://github.com/zplayads/report_api/blob/master/%E5%B9%BF%E5%91%8A%E4%B8%BBReport%20API.md)来获取您的投放数据；
    
-若您是开发者，可以参考我们的[开发者 Report API 文档](https://github.com/zplayads/report_api/blob/master/%E5%BC%80%E5%8F%91%E8%80%85Report%20API.md)来获取您的变现数据；
+若您是开发者，可以参考我们的[开发者Report API文档](https://github.com/zplayads/report_api/blob/master/%E5%BC%80%E5%8F%91%E8%80%85Report%20API.md)来获取您的变现数据；
 
 ### 我从哪里可以获取Account ID和API Key？
    
@@ -42,9 +42,9 @@
 ### 为什么我的广告没有投放出去？
 广告没有投放出去可能有以下原因：
 1. 您的账户余额为零或小于零；我们需要您账户里的余额大于零才可以投放，若您在首页的账户余额小于或等于零时，请进行在线充值或联系service@atmosplay.com以对您的账户进行充值；
-2. 您的投放下的素材没有状态为正常的素材；请检查该投放关联的素材的状态，若该投放下所有素材的状态为暂停或待审核，则您的广告无法被投放；
+2. 您的广告下没有状态为正常的素材；请检查该广告关联的素材的状态，若该广告下所有素材的状态为暂停或待审核，则您的广告无法被投放；
 3. 您的广告投放状态为暂停或过期；请检查您的广告的状态，若广告投放状态为暂停或过期，则该广告无法被投放；暂停的广告，您可以手动开启，若无法开启，则根据页面提示检查应用或素材的状态，如果需要进行激活测试，请联系service@atmosplay.com；过期的广告无法再次投放，您需要新建广告进行投放；
-4. 您的广告所属应用状态非正常；请检查您的广告所属的应用的状态，若应用状态为待审核或审核未通过，则该应用下的投放无法被展示；
+4. 您的广告所属应用状态非正常；请检查您的广告所属的应用的状态，若应用状态为待审核或审核未通过，则该应用下的广告无法被展示；
 
 若以上步骤检查后均无误后，广告还未投放出去，请联系service@atmosplay.com以获取帮助；
 
@@ -56,8 +56,8 @@
 ### 你们的平台支持什么类型的创意？
 目前ZPLAY Ads支持可玩创意，H5创意和视频创意；
 1. 可玩创意：若您有可玩创意制作需求，请与service@atmosplay.com联系，我们将为您制作可玩创意；
-2. H5创意：您可以根据我们的[H5创意制作规范](https://github.com/zplayads/specification-for-H5-playable-creative)制作H5创意，在ZPLAY Ads广告主自助系统中，广告创意页面点击“添加H5创意”，上传符合ZPLAY Ads规范的H5创意；
-3. 视频创意：您可在ZPLAY Ads广告主自助系统中的可玩创意页面选择“添加视频创意”，并根据要求上传视频创意；
+2. H5创意：您可以根据我们的[H5创意制作规范](https://github.com/zplayads/specification-for-H5-playable-creative)制作H5创意，制作完成后，在ZPLAY Ads广告主自助系统的广告创意页面点击“添加H5创意”，上传符合ZPLAY Ads规范的H5创意；
+3. 视频创意：您可在ZPLAY Ads广告主自助系统中的广告创意页面选择“添加视频创意”，并根据要求上传视频创意；
 ![add_creative_cn](/img/add_creative_cn.png)
 
 注：关于如何添加创意，请参考[ZPLAY Ads系统使用手册](https://github.com/zplayads/Help-Center-for-Promotion/blob/master/%E7%B3%BB%E7%BB%9F%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C.md)；
