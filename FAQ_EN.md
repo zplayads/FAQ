@@ -1,7 +1,7 @@
 <!-- TOC -->
 
 - [General](#general)
-  - [How to deal with an error of DNS_PROBE_FINISHED_NXDOMAIN?](#how-to-deal-with-an-error-of-dnsprobefinishednxdomain)
+  - [How to deal with an error of DNS_PROBE_FINISHED_NXDOMAIN?](#how-to-deal-with-an-error-of-dns_probe_finished_nxdomain)
   - [Do you support Report API?](#do-you-support-report-api)
   - [How do I find my Account ID and API Key?](#how-do-i-find-my-account-id-and-api-key)
 - [User Acquisition](#user-acquisition)
