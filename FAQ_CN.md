@@ -56,7 +56,7 @@
 ### 你们的平台支持什么类型的创意？
 目前ZPLAY Ads支持可玩创意，H5创意和视频创意；
 1. 可玩创意：若您有可玩创意制作需求，请与service@atmosplay.com联系，我们将为您制作可玩创意；
-2. H5创意：您可以根据我们的[H5创意制作规范](https://github.com/zplayads/specification-for-H5-playable-creative)制作H5创意，在ZPLAY Ads广告主自助系统中，广告创意页面点击“添加H5创意”，上传符合ZPLAY Ads规范的H5创意；
+2. H5创意：您可以根据我们的[H5创意制作规范](https://github.com/zplayads/specification-for-H5-playable-creative)制作H5创意，制作完成后，在ZPLAY Ads广告主自助系统的广告创意页面点击“添加H5创意”，上传符合ZPLAY Ads规范的H5创意；
 3. 视频创意：您可在ZPLAY Ads广告主自助系统中的广告创意页面选择“添加视频创意”，并根据要求上传视频创意；
 ![add_creative_cn](/img/add_creative_cn.png)
 
