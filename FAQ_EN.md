@@ -8,7 +8,7 @@
   - [Why wasn't my campaign released?](#why-wasnt-my-campaign-released)
   - [What third-party tracking services do you support? Do you have in-house tracking tools?](#what-third-party-tracking-services-do-you-support-do-you-have-in-house-tracking-tools)
   - [What kinds of creatives do you support?](#what-kinds-of-creatives-do-you-support)
-  - [Will it is available to send us the app name?](#will-it-is-available-to-send-us-the-app-name)
+  - [Will it be available to send us the app name?](#will-it-be-available-to-send-us-the-app-name)
   - [What targeting options do you support?](#what-targeting-options-do-you-support)
 - [Monetization](#monetization)
   - [Why can't I add adunits after adding apps?](#why-cant-i-add-adunits-after-adding-apps)
@@ -32,7 +32,7 @@ If you are an advertiser, please refer to [Report API for Advertiser](https://gi
 If you are a developer, please refer to [Report API for Developer](https://github.com/zplayads/report_api/blob/master/Report%20API%20for%20Developer.md) to acquire your monetization data.
 
 ### How do I find my Account ID and API Key?
-You can find your Account ID and API Key in the Account Information page. If you are an advertiser, please click [here](https://buyers.zplayads.com/#/personalInfo/personalInfo/); If you are a developer, please click [here](https://sellers.zplayads.com/#/personal/personalInfo/);
+You can find your Account ID and API Key in the "Account Information" page. If you are an advertiser, please click [here](https://buyers.zplayads.com/#/personalInfo/personalInfo/); If you are a developer, please click [here](https://sellers.zplayads.com/#/personal/personalInfo/);
 
 ![report_api](/img/report_api_en.png)
 
@@ -51,18 +51,18 @@ If your campaign is still not released, please contact us at service@atmosplay.c
 ### What third-party tracking services do you support? Do you have in-house tracking tools?
 For now, ZPLAY Ads support third-party tracking solutions including Appsflyer, Adjust, AdMaster, TalkingData, 热云, Singular, TUNE, 友盟, Kochava and Dataeye;
 
-We also have in-house tracking tools. Please refer to the[Server-to-Server-Install-Tracking](https://github.com/zplayads/Help-Center-for-Promotion/blob/master/Tracking/ZPLAY%20Ads%20Advertiser%20Server%20to%20Server%20Install%20Tracking.md) doc for more details;
+We also have in-house tracking tools. Please refer to the [Server-to-Server-Install-Tracking](https://github.com/zplayads/Help-Center-for-Promotion/blob/master/Tracking/ZPLAY%20Ads%20Advertiser%20Server%20to%20Server%20Install%20Tracking.md) doc for more details;
 
 ### What kinds of creatives do you support?
 For now, ZPLAY Ads support playable creatives, H5 creatives, and video creatives;
 1. Playable creatives: If you have requirements of making playable creatives, please contact us at service@atmosplay.com. We will make playable creatives for you;
-2. H5 creatives: You can make H5 creatives according to [Specification for HTML Format Playable Ads](https://github.com/zplayads/specification-for-H5-playable-creative/blob/master/specification_for_html_format_playable_ads.md) and then upload your H5 creatives in ZPLAY Ads Advertiser Self-service System. Please click "ADD H5 CREATIVE" button in "PLAYABLE CREATIVE" page to upload your H5 creatives;
+2. H5 creatives: You can make H5 creatives according to [Specification for HTML Format Playable Ads](https://github.com/zplayads/specification-for-H5-playable-creative/blob/master/specification_for_html_format_playable_ads.md) and then upload your H5 creatives in ZPLAY Ads Advertiser Self-service System. Please click "ADD H5 CREATIVE" button in "AD CREATIVE" page to upload your H5 creatives;
 3. Video creatives: You can click "ADD VIDEO CREATIVE" in "AD CREATIVE" page to upload your video creatives;
 ![add_creative_cn](/img/add_creative_en.png)
 
 NOTE: About how to add creatives, please see [Guides about how to use ZPLAY Ads platform](https://github.com/zplayads/Help-Center-for-Promotion/blob/master/guides.md) for more details;
 
-### Will it is available to send us the app name? 
+### Will it be available to send us the app name? 
 We can’t send out app names. But we will be able to give you a unique identifier for the traffic, and through the identifier, you can compare the performance of your campaigns in different traffic sources. The table below lists the parameter of traffic app identifier in every third-party platforms:
 
 |Third-party Platform Name|Parameter|
@@ -116,7 +116,7 @@ You can check by following below steps:
 |Android| Native Managed Rendering|5C5419C7-A2DE-88BC-A311-C3E7A646F6AF|0246FB55-3042-9F29-D4AB-21C6349EEE83|
 |Android|Native Self Rendering|5C5419C7-A2DE-88BC-A311-C3E7A646F6AF|BB8452AD-06E7-140B-00DC-FD6CB6B40FAA|
 
-2. If you have integrated our SDK and launched your app successfully, please check the App ID and Ad Unit ID. You'll find the ID on the [AdUnit Management](https://sellers.zplayads.com/#/ad/placeList/) page;
+2. If you have integrated our SDK and launched your app successfully, please check the App ID and Ad Unit ID. You'll find the ID on the "[AdUnit Management](https://sellers.zplayads.com/#/ad/placeList/)" page;
 3. If your App ID and Ad Unit ID are both right, please check the status of your app and ad unit;
 4. If the status of your app and ad unit are both approved, please check the OS version of your device. We do not support very old os versions (iOS < 9.0 or Android < 4.0);
 5. If you were still not able to get any ads, please contact us at service@atmosplay.com to get help;
@@ -125,7 +125,7 @@ You can check by following below steps:
 
 If your "WITHDRAW" button is unable to click, please check:
 1. Your current date. You can withdraw your earnings only from 00:00 15th to 24:00 20th (GMT+8:00) each month;
-2. Your financial information. Only after you completing your financial information, you can withdraw your earnings. Please click the "ADD" button in [Financial Information](https://sellers-test.zplayads.com/#/finance/financeEdit/) page to fill your financial information;
+2. Your financial information. Only after you completing your financial information, you can withdraw your earnings. Please click the "ADD" button in "[Financial Information](https://sellers-test.zplayads.com/#/finance/financeEdit/)" page to fill your financial information;
 3. Your unpaid earnings. If your settlement currency is RMB, you can withdraw your earnings only if your account has more than ￥1000 unpaid earnings; If your settlement currency is USD, you can withdraw your earnings only if your account has more than $250 unpaid earnings;
 
 If you meet all the requirments above but still cannot click the "WITHDRAW" button, please contact us at service@atmosplay.com to get help;
