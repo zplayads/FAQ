@@ -22,7 +22,7 @@ If this document could not answer your question, you can contact us at service@a
 
 ## General
 ### How to deal with an error of DNS_PROBE_FINISHED_NXDOMAIN?
-When encounter an error of DNS_PROBE_FINISHED_NXDOMAIN, please refer to this [doc](https://github.com/zplayads/FAQ/blob/master/edit_DNS.md);
+When you encounter an error of DNS_PROBE_FINISHED_NXDOMAIN, please refer to this [doc](https://github.com/zplayads/FAQ/blob/master/edit_DNS.md);
 
 ### Do you support Report API?
 We support Report API. 
