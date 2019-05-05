@@ -40,7 +40,7 @@ You can find your Account ID and API Key in the "Account Information" page. If y
 ### Why wasn't my campaign released?
 There are multiple reasons why we failed to release your campaign:
 1. There is no balance left in the account. We require that you have a positive balance to release your campaign. If your balance is zero or negative, please recharge your account online or contact our operation support to recharge your account at service@atmosplay.com;
-2. There is no approved creative under your campaign. Please check the status of the creatives under your campaign. If all creatives under your campaign are in paused or pending status, your campaign will not be released;
+2. There is no approved creative under your campaign. Please check the status of the creatives under your campaign. If all creatives under your campaign are in paused, pending or rejected status, your campaign will not be released;
 3. Your campaign is paused or expired. Please check the status of your campaign. 
     - If your campaign is paused, you can start it by clicking the "Start" button. If the campaign cannot be started, please check the app/creative status according to the message. If your campaign needs to be tested, please contact us at service@atmosplay.com;
     - If your campaign is expired, you need to add a new campaign for advertising;
